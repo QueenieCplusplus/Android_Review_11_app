@@ -7,4 +7,8 @@ BTW, keep noticed that the android-kotlin-extensions is deprecated..., plz use t
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Review_11_app/main/output2.png)
 
-Ref: https://heartbeat.fritz.ai/insert-and-fetch-records-with-room-on-android-using-kotlin-2de28fdeae2b
+Ref:
+
+https://heartbeat.fritz.ai/insert-and-fetch-records-with-room-on-android-using-kotlin-2de28fdeae2b (for Room)
+
+https://developer.android.com/codelabs/kotlin-android-training-coroutines-and-room#3 (for ViewModel)
